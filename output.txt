@@ -1,0 +1,18 @@
+Script started on 2021-08-19 17:01:07+01:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="120" LINES="30"]
+]0;marieobi@LAPTOP-Q658V8US: /mnt/c/Users/modu9[01;32mmarieobi@LAPTOP-Q658V8US[00m:[01;34m/mnt/c/Users/modu9[00m$ mkdir unit01-assessment-git
+]0;marieobi@LAPTOP-Q658V8US: /mnt/c/Users/modu9[01;32mmarieobi@LAPTOP-Q658V8US[00m:[01;34m/mnt/c/Users/modu9[00m$ cd unit01-assessment-git
+]0;marieobi@LAPTOP-Q658V8US: /mnt/c/Users/modu9/unit01-assessment-git[01;32mmarieobi@LAPTOP-Q658V8US[00m:[01;34m/mnt/c/Users/modu9/unit01-assessment-git[00m$ mkdir folder 1 folder2[1P[C[C[C[C[C[C[C[C[C
+]0;marieobi@LAPTOP-Q658V8US: /mnt/c/Users/modu9/unit01-assessment-git[01;32mmarieobi@LAPTOP-Q658V8US[00m:[01;34m/mnt/c/Users/modu9/unit01-assessment-git[00m$ touch file1.txt file2.txt file3.txt
+]0;marieobi@LAPTOP-Q658V8US: /mnt/c/Users/modu9/unit01-assessment-git[01;32mmarieobi@LAPTOP-Q658V8US[00m:[01;34m/mnt/c/Users/modu9/unit01-assessment-git[00m$ mv  [K[K file1.txt folder1
+]0;marieobi@LAPTOP-Q658V8US: /mnt/c/Users/modu9/unit01-assessment-git[01;32mmarieobi@LAPTOP-Q658V8US[00m:[01;34m/mnt/c/Users/modu9/unit01-assessment-git[00m$ mv file1.txt folder1[K2[1P[1@2[C[C[C[C[C[C[C[C[C[C[C[C
+]0;marieobi@LAPTOP-Q658V8US: /mnt/c/Users/modu9/unit01-assessment-git[01;32mmarieobi@LAPTOP-Q658V8US[00m:[01;34m/mnt/c/Users/modu9/unit01-assessment-git[00m$ cd folder1
+]0;marieobi@LAPTOP-Q658V8US: /mnt/c/Users/modu9/unit01-assessment-git/folder1[01;32mmarieobi@LAPTOP-Q658V8US[00m:[01;34m/mnt/c/Users/modu9/unit01-assessment-git/folder1[00m$ ls
+[0m[01;32mfile1.txt[0m
+]0;marieobi@LAPTOP-Q658V8US: /mnt/c/Users/modu9/unit01-assessment-git/folder1[01;32mmarieobi@LAPTOP-Q658V8US[00m:[01;34m/mnt/c/Users/modu9/unit01-assessment-git/folder1[00m$ pwd
+/mnt/c/Users/modu9/unit01-assessment-git/folder1
+]0;marieobi@LAPTOP-Q658V8US: /mnt/c/Users/modu9/unit01-assessment-git/folder1[01;32mmarieobi@LAPTOP-Q658V8US[00m:[01;34m/mnt/c/Users/modu9/unit01-assessment-git/folder1[00m$ cd ../
+]0;marieobi@LAPTOP-Q658V8US: /mnt/c/Users/modu9/unit01-assessment-git[01;32mmarieobi@LAPTOP-Q658V8US[00m:[01;34m/mnt/c/Users/modu9/unit01-assessment-git[00m$ rm file3.txt
+]0;marieobi@LAPTOP-Q658V8US: /mnt/c/Users/modu9/unit01-assessment-git[01;32mmarieobi@LAPTOP-Q658V8US[00m:[01;34m/mnt/c/Users/modu9/unit01-assessment-git[00m$ exit
+exit
+
+Script done on 2021-08-19 17:07:23+01:00 [COMMAND_EXIT_CODE="0"]
