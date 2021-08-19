@@ -5,9 +5,13 @@ Black Codher bootcamp
 **Assessment Steps**
 
 Open a terminal window and check you are in the main directory of your repository.
+
 To capture the terminal session and all the commands entered into the terminal, enter the following command:
+
 Term=dumb script output.txt 
+
 This will record all commands entered in to your terminal and save them to a file called output.txt.
+
 Windows users: To record a script using the Linux script command, you will need to have the Windows Subsystem for Linux installed and Windows Terminal configured to use the Ubuntu shell.
 
 Once the capture session has started, run through the following steps in a terminal:
