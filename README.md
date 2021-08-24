@@ -1,6 +1,6 @@
 # black-codher
 
-Black Codher bootcamp
+Black Codher Unit 1 - Command Line & Git assessment
 
 **Assessment Steps**
 
